@@ -1,0 +1,17 @@
+{
+  "title": "Fire Force",
+  "description": "nothing",
+  "artist": "Atsushi Ōkubo",
+  "author": "Atsushi Ōkubo",
+  "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/Fire_Force%2C_Volume_1.jpg",
+  "chapters": {
+    "271": {
+      "title": "Valkarie Yang Suci",
+      "volume": "29",
+      "groups": {
+        "AlepKorosensei": "/proxy/api/imgur/chapter/MoMvGYR/"
+      },
+      "last_updated": "1617211024"
+    }
+  }
+}
